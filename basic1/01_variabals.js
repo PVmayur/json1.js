@@ -13,6 +13,9 @@ let suId=null
 1)tc39.es
 2)mdn web docs
 */
+
+// null=NaN
+// UNDIFINE=Undifine
 city = "surat"
 let mayur;
 console.table([nameId,last,city,mayur]);
