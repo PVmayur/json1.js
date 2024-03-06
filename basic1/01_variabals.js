@@ -16,9 +16,19 @@ let suId=null
 
 // null=NaN
 // UNDIFINE=Undifine
-city = "surat"
-let mayur;
-console.table([nameId,last,city,mayur]);
+// city = "surat"
+// let mayur;
+// console.table([nameId,last,city,mayur]);
 
-console.table([typeof nameId,last,suId,mayur])
-console.log(typeof nameId,last,suId,mayur)
+// console.table([typeof nameId,last,suId,mayur])
+// console.log(typeof nameId,last,suId,mayur)
+
+const exp = new String("joshi pagal")
+
+console.log(exp)
+
+
+const joshi="ankit"
+
+console.log(joshi.replace("ankit","mm"))   
+
